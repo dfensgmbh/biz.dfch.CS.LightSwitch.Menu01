@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\DataSources\ApplicationData\People.lsml" Checksum="66D83483CFB98AE6C1F9FF56D9C558C19A59B00D5C367CF874BE7C8D6AF37832" />
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\Properties\DataSources\ApplicationData.lsml" Checksum="C9007E90610BDB16B02BFA701E17F70EAA51ACD70D7BB658DBA4901EFBFA0129" />
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+  </Documents>
+</ModelDocumentManifest>

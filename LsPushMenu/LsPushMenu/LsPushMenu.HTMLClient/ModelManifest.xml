@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\Properties\Client.lsml" Checksum="9D8ECADBBF8D1C104F915697CD4A645B72A93C0E90A65E7B114C114D11567AD3" />
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\Properties\Proxies.lsml" Checksum="1D5EB96F1B4B45F1D4E3DBFDF4E26D03FDF872AF87738B7B7618CE1E4D354B56" />
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\Screens\AddEditPerson.lsml" Checksum="C0D2F48D4C8AC2BB7789769ABF3D5D54112FF9A056A14900B79766F9356D5419" />
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\Screens\Main.lsml" Checksum="31AEB3C1BC4F010A6331B1F4471BEB6CFD27FE243645C97DE17CF479EA6F8371" />
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\Screens\PageTwo.lsml" Checksum="410D2595CA4D8E8BC43379467BCDD539501920B9DB6B525E8BCA052985AC1684" />
+    <Document FullPath="C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\Screens\SubSection.lsml" Checksum="D89A346226F7A4ACCC16A10D745E171827331B221D77CD326756B2A92FC506C6" />
+  </Documents>
+</ModelDocumentManifest>

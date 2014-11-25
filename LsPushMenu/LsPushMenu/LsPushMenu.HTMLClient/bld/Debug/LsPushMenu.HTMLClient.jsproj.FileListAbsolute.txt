@@ -1,0 +1,4 @@
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\bin\Debug\LSResourceGeneratorsTask.mcs
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\bin\Debug\LSClientCodeGeneratorsTask.mcs
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\bin\Debug\LSResourceGeneratorsTask.mcs
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.HTMLClient\bin\Debug\LSClientCodeGeneratorsTask.mcs

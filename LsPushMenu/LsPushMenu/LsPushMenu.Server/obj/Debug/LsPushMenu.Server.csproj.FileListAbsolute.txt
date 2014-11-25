@@ -1,0 +1,72 @@
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\LSSvcGeneratorsTask.mcs
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\LSResourceGeneratorsTask.mcs
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\LSServerCodeGeneratorsTask.mcs
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Application.Server.dll.config
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Application.Server.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Application.Server.pdb
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.Edm.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.OData.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.Services.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.AppBridge.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.CodeMarker.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.ExportProvider.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.ManifestService.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Server.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Server.Host.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.Spatial.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.xml
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Server.xml
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\obj\Debug\LsPushMenu.Server.csprojResolveAssemblyReference.cache
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\obj\Debug\Application.Server.dll
+C:\Temp\LsPushMenu\LsPushMenu\LsPushMenu.Server\obj\Debug\Application.Server.pdb
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\LSSvcGeneratorsTask.mcs
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\LSResourceGeneratorsTask.mcs
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\LSServerCodeGeneratorsTask.mcs
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Application.Server.dll.config
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Application.Server.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Application.Server.pdb
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.Data.Services.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.AppBridge.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.CodeMarker.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.ExportProvider.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.ManifestService.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Server.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Server.Host.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.Spatial.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.xml
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\Microsoft.LightSwitch.Server.xml
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\obj\Debug\Application.Server.dll
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\obj\Debug\Application.Server.pdb
+C:\Users\HP-Desktop\Documents\Visual Studio 2013\Projects\LsPushMenu\LsPushMenu\LsPushMenu.Server\obj\Debug\LsPushMenu.Server.csprojResolveAssemblyReference.cache
